@@ -8,7 +8,7 @@ With only three instructions, it aims to be the simplest structured programming 
 
 It uses conditional loops and an unbounded number of binary variables, along with flipping their values.
 
-Stroke is *almost* Turing complete, unlike its bigger brother [Stroke+-](https://github.com/ttulka/strokepm) which truly is.
+Stroke is *almost* Turing complete, unlike its bigger brother [Stroke+-](https://github.com/ramonaoldf/strokepm) which truly is.
 
 ## Language
 
